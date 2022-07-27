@@ -1,0 +1,7 @@
+2022/06/12-14:39:51.976 4efc Reusing MANIFEST C:\Users\Yoon\Desktop\naver_blog\debug\Default\Session Storage/MANIFEST-000001
+2022/06/12-14:39:51.977 4efc Recovering log #92
+2022/06/12-14:39:51.978 4efc Level-0 table #96: started
+2022/06/12-14:39:51.982 4efc Level-0 table #96: 224983 bytes OK
+2022/06/12-14:39:51.982 4efc Recovering log #95
+2022/06/12-14:39:51.984 4efc Reusing old log C:\Users\Yoon\Desktop\naver_blog\debug\Default\Session Storage/000095.log 
+2022/06/12-14:39:51.986 4efc Delete type=0 #92
